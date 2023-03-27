@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🔭 I’m currently working on Python side projects<br>🤝 I’m looking for help with innovative ideas that I can apply to projects<br>🌱 I’m currently learning Python<br><br>
+🔭 I’m currently working on Python side projects<br>🤝 I’m looking for help with innovative ideas that I can apply to projects<br>
 
 
 ## 🌐 Socials:
