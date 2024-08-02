@@ -1,4 +1,9 @@
 ### Hi 👋
+
+I'm a Computer Science student at UC Santa Cruz. I'm constantly leveraging my skills by making projects, and am always open to new opportunities. Outside of the industry, I love sports (big Lakers fan).
+
+Feel free to reach out!
+
 [![Linkedin Badge](https://img.shields.io/badge/-Varun_Kanna-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kanna/)
 [![Gmail Badge](https://img.shields.io/badge/-varunkanna1%40outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:varunkanna1@outlook.com)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://varunkanna.me)
