@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Computer Science student at UC Santa Cruz. I'm constantly leveraging my skills by making projects, and am always open to new opportunities. Outside of the industry, I love sports (big Lakers fan).
+I'm a Computer Science student at UC Santa Cruz. I'm constantly leveraging my skills by making projects, and am always open to new opportunities.
 
 Feel free to reach out!
 
